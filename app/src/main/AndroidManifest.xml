@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kiube9.aplikasi_chating_budiluhur">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+
+       <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".Splash"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Menu_pilih" />
+        <activity
+            android:name=".Chat_room"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+            >
+
+
+        </activity>
+        <activity android:name=".Login_Mahasiswa" />
+        <activity android:name=".Biodata_Mahasiswa" />
+        <activity android:name=".Roomnya_Dosen" />
+        <activity android:name=".Biodata_Dosen" />
+        <activity android:name=".Login_Dosen" />
+        <activity android:name=".Chat_Room_Dosen"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+            >
+        </activity>
+        <activity android:name=".Roomnya_Mahasiswa"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat Budi Luhur</string>
+
+    <style name="AppTheme.CustomTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

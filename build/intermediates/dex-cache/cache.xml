@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a6ab082d6f5b44ace0b82b430ea49e4e674c9270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_c7b943ecef7e78e21ee993e887eeeda2e97cdc63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_e2be31bd034043fd62183b5b9754834005487ea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.0_554fc76a3b30887e35c313ef7c8876e0e97b0c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_cd9fcc25112a4414f94e01f69b3754ad40c54479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.0_cf6c6ac07e7cfaa503e37b9ff2a9126ba06f29d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.0_ea5f1f93aec491e64ac71e205878a3d7e0e0944c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.6.0_8092fd70b17beebbfee6c53e1587f55cff52ac5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.0_4967d06eb6d383306bfd9d4c246b14329276db7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.0_a88fff581cfb0f0c655622249f63d3baa679c0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b4855c75f7dc925f8a39474cabf8ffb757619806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.6.0_8092fd70b17beebbfee6c53e1587f55cff52ac5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7c4ca83fd0acdc27833163125b32aedb276eca2c">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f20af83639e5480eb1475118fd211b43c7f414bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiube9\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_774badf92f1d134fed5878794508d35340fa82bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_a3d37bc3f1896c17daa807b324a34dad0aa249d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b8374ec98b568f8907be66c171659358e5e722bd">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\instant-run_2c5a87284816f8d7e3b0ca080c46a573878391ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.0_df89c8c46286249c124ba8b31f8c219d04e2e96c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7cfc92bc0d21858075de8cd5d1781879cbf490ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_46730783a4ee717c289d4a30b42b09aa0e4e7095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_96ebb07b47e915e75ba28e2ef93736559bea96e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.0_8d1106b932704bc3f2a4964987401912c41d85e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_07f623c8b6e588cc0ac704aeb668f0d8ab2d134c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_e2be31bd034043fd62183b5b9754834005487ea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.0_cf6c6ac07e7cfaa503e37b9ff2a9126ba06f29d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.0_0f20d337276bb8a2a9b37c751c8067f20163ca8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.0_0b2dcbf0da89f88607a1c5afd6331b8baee53035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.0_ea5f1f93aec491e64ac71e205878a3d7e0e0944c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\additionnal_ec444f796194fc6fb2aada4d3f49bb6a30e6f384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.0_a88fff581cfb0f0c655622249f63d3baa679c0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.0_df89c8c46286249c124ba8b31f8c219d04e2e96c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.0_3a1dc253a778fa61c95946ad57af8a74129618bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_96ebb07b47e915e75ba28e2ef93736559bea96e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\activation_b77d7c6bbcda630d65aa24cee87130874dec949d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_f6bb45d04bff98bd6e16e30d8590ea62153ac31f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7cfc92bc0d21858075de8cd5d1781879cbf490ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\mail_2a914809b541721206de74df284db18351aad0d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_07f623c8b6e588cc0ac704aeb668f0d8ab2d134c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\activation_b77d7c6bbcda630d65aa24cee87130874dec949d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.0_8d1106b932704bc3f2a4964987401912c41d85e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_14479b1429d4a63dda8d741b0848acfd03892f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_f6bb45d04bff98bd6e16e30d8590ea62153ac31f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2be71ad77d89b60637adc6411bc5378d5f96c828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_ae67e63500e580966ddeeb77cafa32cf77fbc1fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.0_0b2dcbf0da89f88607a1c5afd6331b8baee53035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.0_3a1dc253a778fa61c95946ad57af8a74129618bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.6.0_c020b5184658393169eef36f4dfa48c172d7098a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.0_341416a73e433a75ca4d7cbeda74dfebeda50e48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.0_44a2c27272a2ee7988371949d6ceb0b322afa613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\additionnal_ec444f796194fc6fb2aada4d3f49bb6a30e6f384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_c3ac6326bbf42dc4afe6c1333d740b2cebe4b800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a6ab082d6f5b44ace0b82b430ea49e4e674c9270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_c7b943ecef7e78e21ee993e887eeeda2e97cdc63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_bd397464c2b4875a8be799528b6c0eac24c2429d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_cd9fcc25112a4414f94e01f69b3754ad40c54479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_14479b1429d4a63dda8d741b0848acfd03892f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2be71ad77d89b60637adc6411bc5378d5f96c828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b4855c75f7dc925f8a39474cabf8ffb757619806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.0_4967d06eb6d383306bfd9d4c246b14329276db7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_46730783a4ee717c289d4a30b42b09aa0e4e7095.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.0_0f20d337276bb8a2a9b37c751c8067f20163ca8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.6.0_c020b5184658393169eef36f4dfa48c172d7098a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kiube9\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_774badf92f1d134fed5878794508d35340fa82bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_ae67e63500e580966ddeeb77cafa32cf77fbc1fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.0_554fc76a3b30887e35c313ef7c8876e0e97b0c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_bd397464c2b4875a8be799528b6c0eac24c2429d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_a3d37bc3f1896c17daa807b324a34dad0aa249d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_c3ac6326bbf42dc4afe6c1333d740b2cebe4b800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.0_44a2c27272a2ee7988371949d6ceb0b322afa613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.0_341416a73e433a75ca4d7cbeda74dfebeda50e48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\pre-dexed\debug\mail_2a914809b541721206de74df284db18351aad0d4.jar" />
+    </item>
+
+</items>

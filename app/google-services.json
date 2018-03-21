@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "821830427040",
+    "firebase_url": "https://chatingbl.firebaseio.com",
+    "project_id": "chatingbl",
+    "storage_bucket": "chatingbl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821830427040:android:29d228b55e378877",
+        "android_client_info": {
+          "package_name": "com.example.kiube9.aplikasi_chating_budiluhur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821830427040-0ahh9usetsie96ot9a3pqc01t6m4pojo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWcOWq874-hN9dfzfrdresHZpMxlWgppw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

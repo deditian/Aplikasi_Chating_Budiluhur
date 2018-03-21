@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView"
+        android:layout_weight="1"
+
+
+
+        android:layout_alignParentTop="true">
+        <TextView
+            android:id="@+id/Textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            />
+
+    </ScrollView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+
+
+        android:layout_alignParentStart="true"
+        android:weightSum="1">
+
+        <EditText
+            android:id="@+id/msg_input"
+            android:hint="Enter Your Message"
+            android:textColorHint="#000000"
+            android:layout_width="500dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/edittext_model_2"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btn_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/textview_model_1"
+            android:textColor="@color/white"
+            android:text="Send"
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@+id/msg_input"
+            android:layout_marginStart="0dp" />
+    </LinearLayout>
+</LinearLayout>

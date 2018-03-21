@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+
+
+    <ViewFlipper
+        android:id="@+id/backgroundViewFlipper"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="centerCrop"
+            android:id="@+id/Slide1"
+            android:background="#71befd"/>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="centerCrop"
+            android:id="@+id/Slide2"
+            android:background="#71befd"/>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="centerCrop"
+            android:id="@+id/Slide3"
+            android:background="#71befd"/>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="centerCrop"
+            android:id="@+id/Slide4"
+            android:background="#71befd"/>
+
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="centerCrop"
+            android:id="@+id/Slide5"
+            android:background="#71befd"/>
+
+
+
+
+    </ViewFlipper>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/logo_bl"
+        android:paddingTop="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:id="@+id/imageView" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#71befd"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:layout_centerVertical="true">
+
+        <TextView
+            android:shadowColor="#fff"
+            android:shadowRadius="10"
+            android:shadowDx="10"
+            android:shadowDy="10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Login Mahasiswa"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal" />
+
+        <EditText
+            android:layout_margin="15dp"
+            android:inputType="number"
+            android:gravity="center"
+            android:hint="Enter Your NIM"
+            android:background="@drawable/edittext_model_1"
+            android:id="@+id/editTextMail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:gravity="center"
+            android:layout_margin="15dp"
+            android:inputType="textPassword"
+            android:hint="Enter Your Password"
+            android:background="@drawable/edittext_model_1"
+            android:id="@+id/editTextPassword"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:background="@drawable/textview_model_1"
+            android:layout_margin="15dp"
+            android:text="Login"
+            android:textColor="@color/white"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSignIn" />
+
+        <TextView
+            android:text="Not have an account? SingUp here"
+            android:id="@+id/lblViewSignUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:shadowColor="#fff"
+            android:shadowRadius="10"
+            android:shadowDx="10"
+            android:shadowDy="10"
+            />
+    </LinearLayout>
+</RelativeLayout>

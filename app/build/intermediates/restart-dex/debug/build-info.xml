@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="17"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="619109967425992"
+    token="-5624376728065561461"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="1898" />
+    <task
+        name="instant-run-dex"
+        duration="80" />
+    <task
+        name="instant-run-transform"
+        duration="413" />
+    <task
+        name="verifier"
+        duration="113" />
+
+    <artifact
+        location="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="618933104882185"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="635977901075018"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="D:\KULIAH\androidberita-master\Aplikasi_Chating_Budiluhur\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
